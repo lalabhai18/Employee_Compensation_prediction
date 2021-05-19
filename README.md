@@ -35,37 +35,37 @@ Some techniques used are:
 a)Continuous Variable
 
 1. EDA
-i.Distplot
+  i.Distplot
 
 2. Outlier Detection:
-i. Box Plot 
+  i. Box Plot 
 
 3. Feature Transformation:
-i. Cube root transformation
-ii. Log transformation
-iii. Interquantile range Method
+  i. Cube root transformation
+  ii. Log transformation
+  iii. Interquantile range Method
 
 
 b)Categorical Variable
 
 1. EDA:
-i. Countplot
+  i. Countplot
 
 2. Feature Transformation:
-i. Mean Encoding
-ii. One Hot Encoding with many categorical
-iii. Label Encoding 
+  i. Mean Encoding
+  ii. One Hot Encoding with many categorical
+  iii. Label Encoding 
 
 3. Feature Selection:
-i. Correlation
+  i. Correlation
 
 c)Model Fitting:
-i.Linear Regression
-ii.K Nearest Regressor
-iii.Decision Tree Regressor
-iv.Random Forest Regressor
-v.Xgboost Regressor
-vi.Lightgbm Regressor
+  i.Linear Regression
+  ii.K Nearest Regressor
+  iii.Decision Tree Regressor
+  iv.Random Forest Regressor
+  v.Xgboost Regressor
+  vi.Lightgbm Regressor
 
 d)Metrics:
-i.Mean_Absolute_Error
+  i.Mean_Absolute_Error
